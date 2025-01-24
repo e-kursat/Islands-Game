@@ -1,0 +1,34 @@
+{
+    "name": "UI",
+    "maps": [
+        {
+            "name": "UI",
+            "id": "2df577c7-a1c5-4d37-9583-89e71ba5b4be",
+            "actions": [
+                {
+                    "name": "Submit",
+                    "type": "Button",
+                    "id": "520f19fc-01ea-44f3-9f78-b315e4348877",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "85c8bec9-4c6b-42fb-9e29-0745f37213ae",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Submit",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
